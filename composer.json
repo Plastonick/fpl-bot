@@ -3,12 +3,13 @@
   "description": "An AI implementation in PHP for Fantasy Premier League",
   "autoload": {
     "psr-4": {
-      "FantasyAI\\": "src/"
+      "Plastonick\\FantasyAI\\": "src/"
     }
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "plastonick/fpl-api": "*"
+    "php-ai/php-ml": "^0.8.0",
+    "plastonick/fpl-client": "*"
   }
 }
