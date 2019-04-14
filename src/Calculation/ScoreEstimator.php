@@ -1,8 +1,8 @@
 <?php
 
-namespace FantasyAI\Calculation;
+namespace Plastonick\FantasyAI\Calculation;
 
-use FPL\Entity\Player;
+use Plastonick\FPLClient\Entity\Player;
 
 class ScoreEstimator
 {
