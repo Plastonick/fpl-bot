@@ -9,7 +9,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php-ai/php-ml": "^0.8.0",
-    "plastonick/fpl-client": "*"
+    "plastonick/fpl-client": "^0.1.0",
+    "plastonick/knapsack-solver": "^1.1"
   }
 }
